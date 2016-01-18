@@ -16,7 +16,7 @@ ReactDOM.render(
 var Tagline = React.createClass({displayName: 'Tagline',
   render: function() {
     return (
-        <div>
+      <div>
         <p className="lead">
           Hello there! I'm a Master Software Engineer at Capital One who resides in&nbsp;
           <a href="http://en.wikipedia.org/wiki/Arlington_County,_Virginia">Arlington, VA</a>.
