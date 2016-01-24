@@ -1,0 +1,8 @@
+# Visual Studio Code settings
+.vscode
+
+# Idea settings
+.idea
+
+# Node modules
+node_modules
