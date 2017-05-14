@@ -32,12 +32,12 @@ const ContentSection = props => {
   })
 
   return (
-    <div>
+    <section id={props.sectionTitle}>
       <dl>
         <dt><h3>{props.sectionTitle}</h3></dt>
         {items}
       </dl>
-    </div>
+    </section>
   )
 }
 

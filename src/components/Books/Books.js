@@ -2,6 +2,7 @@ import React from 'react'
 import ContentSection from '../ContentSection'
 
 const booksData = {
+  sectionTitle: 'Writing',
   items: [
     {
       iconType: 'book',
@@ -23,7 +24,7 @@ const booksData = {
 
 const Books = () => (
   <div>
-    <ContentSection sectionTitle='Books' itemsData={booksData} />
+    <ContentSection sectionTitle={booksData.sectionTitle} itemsData={booksData} />
   </div>
 )
 

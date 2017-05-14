@@ -2,18 +2,19 @@ import React from 'react'
 import ContentSection from '../ContentSection'
 
 const contactMeData = {
+  sectionTitle: 'Contact Me',
   items: [
     {
       iconType: 'email',
-      itemUrl: 'mailto:jesselpalmer@gmail.com',
-      itemTitle: 'jesselpalmer@gmail.com'
+      itemUrl: 'mailto:jesse@jesselpalmer.com',
+      itemTitle: 'jesse@jesselpalmer.com'
     }
   ]
 }
 
 const ContactMe = () => (
   <div>
-    <ContentSection sectionTitle='Contact Me' itemsData={contactMeData} />
+    <ContentSection sectionTitle={contactMeData.sectionTitle} itemsData={contactMeData} />
   </div>
 )
 

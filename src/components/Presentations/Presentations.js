@@ -2,7 +2,13 @@ import React from 'react'
 import ContentSection from '../ContentSection'
 
 const presentationsData = {
+  sectionTitle: 'Speaking',
   items: [
+    {
+      iconType: 'presentation',
+      itemUrl: 'https://www.slideshare.net/JessePalmer1/state-of-the-mobile-web-frameworks',
+      itemTitle: 'The State of the Mobile Web Frameworks'
+    },
     {
       iconType: 'presentation',
       itemUrl: 'https://docs.google.com/presentation/d/1Kafn_dzmLqV-lNL1uFszJz8PnQbrG2dglAsi3UinzIQ/edit?usp=sharing',
@@ -10,7 +16,7 @@ const presentationsData = {
     },
     {
       iconType: 'presentation',
-      itemUrl: 'https://docs.google.com/presentation/d/1Jb7P5Yreq168Gz4ieHJI_xZIgVAf3RP2twULK6rBScg/edit?usp=sharing',
+      itemUrl: 'https://www.slideshare.net/JessePalmer1/miningconf2015',
       itemTitle: 'mini ng-conf 2015'
     },
     {
@@ -23,7 +29,7 @@ const presentationsData = {
 
 const Presentations = props => (
   <div>
-    <ContentSection sectionTitle='Presentations' itemsData={presentationsData} />
+    <ContentSection sectionTitle={presentationsData.sectionTitle} itemsData={presentationsData} />
   </div>
 )
 
