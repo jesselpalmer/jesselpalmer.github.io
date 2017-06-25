@@ -6,8 +6,8 @@ const contactMeData = {
   items: [
     {
       iconType: 'email',
-      itemUrl: 'mailto:jesse@jesselpalmer.com',
-      itemTitle: 'jesse@jesselpalmer.com'
+      itemUrl: 'mailto:jesselpalmer@gmail.com',
+      itemTitle: 'jesselpalmer@gmail.com'
     }
   ]
 }
