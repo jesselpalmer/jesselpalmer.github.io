@@ -38,6 +38,11 @@ const socialNetworksData = {
       iconType: 'quora',
       itemUrl: 'https://www.quora.com/profile/Jesse-Palmer-2',
       itemTitle: 'Quora'
+    },
+    {
+      iconType: 'medium',
+      itemUrl: 'https://medium.com/@jesselpalmer',
+      itemTitle: 'Medium'
     }
   ]
 }

@@ -9,6 +9,7 @@ const contentSectionIcons = {
   github: 'fa fa-github',
   googleplus: 'fa fa-google-plus',
   linkedin: 'fa fa-linkedin',
+  medium: 'fa fa-medium',
   presentation: 'fa fa-file-powerpoint-o',
   quora: 'fa fa-quora',
   stackoverflow: 'fa fa-stack-overflow',

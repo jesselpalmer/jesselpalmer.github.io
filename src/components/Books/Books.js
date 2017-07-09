@@ -2,7 +2,7 @@ import React from 'react'
 import ContentSection from '../ContentSection'
 
 const booksData = {
-  sectionTitle: 'Writing',
+  sectionTitle: 'Books',
   items: [
     {
       iconType: 'book',

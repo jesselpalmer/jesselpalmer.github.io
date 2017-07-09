@@ -53,7 +53,7 @@ const openSourceContributionsData = {
 
 const OpenSourceContributions = () => (
   <div>
-    <ContentSection sectionTitle='Open Source' itemsData={openSourceContributionsData} />
+    <ContentSection sectionTitle='Open Source Contributions' itemsData={openSourceContributionsData} />
   </div>
 )
 
