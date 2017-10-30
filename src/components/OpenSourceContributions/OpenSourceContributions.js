@@ -5,6 +5,11 @@ const openSourceContributionsData = {
   items: [
     {
       iconType: 'code',
+      itemUrl: 'https://github.com/angular/angular/commits?author=jesselpalmer',
+      itemTitle: 'Angular'
+    },
+    {
+      iconType: 'code',
       itemUrl: 'https://github.com/angular/angular.io/commits?author=jesselpalmer',
       itemTitle: 'Angular.io'
     },

@@ -23,26 +23,6 @@ const socialNetworksData = {
       iconType: 'googleplus',
       itemUrl: 'http://plus.google.com/103647743417859490624',
       itemTitle: 'Google+'
-    },
-    {
-      iconType: 'angellist',
-      itemUrl: 'https://angel.co/jesselpalmer',
-      itemTitle: 'Angel List'
-    },
-    {
-      iconType: 'stackoverflow',
-      itemUrl: 'http://stackoverflow.com/users/517797/jesse-palmer',
-      itemTitle: 'Stack Overflow'
-    },
-    {
-      iconType: 'quora',
-      itemUrl: 'https://www.quora.com/profile/Jesse-Palmer-2',
-      itemTitle: 'Quora'
-    },
-    {
-      iconType: 'medium',
-      itemUrl: 'https://medium.com/@jesselpalmer',
-      itemTitle: 'Medium'
     }
   ]
 }
