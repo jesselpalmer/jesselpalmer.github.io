@@ -6,6 +6,11 @@ const presentationsData = {
   items: [
     {
       iconType: 'presentation',
+      itemUrl: 'https://www.assertjs.com/speakers/',
+      itemTitle: 'Testing Angular Components Fundamentals, assert(js) conference, Feb 22, 2018'
+    },
+    {
+      iconType: 'presentation',
       itemUrl: 'https://www.slideshare.net/JessePalmer1/state-of-the-mobile-web-frameworks',
       itemTitle: 'The State of the Mobile Web Frameworks'
     },
