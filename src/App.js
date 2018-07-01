@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 
-import { PageHeader, PageFooter, Books, ContactMe, OpenSourceContributions, Presentations, SocialNetworks,
+import { PageHeader, PageFooter, Books, ContactMe, Presentations, SocialNetworks,
         Tagline } from './components'
 
 const App = () => (
@@ -10,7 +10,6 @@ const App = () => (
     <Tagline />
     <Books />
     <Presentations />
-    <OpenSourceContributions />
     <SocialNetworks />
     <ContactMe />
     <PageFooter />

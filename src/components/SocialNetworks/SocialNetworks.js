@@ -18,11 +18,6 @@ const socialNetworksData = {
       iconType: 'twitter',
       itemUrl: 'http://twitter.com/jesselpalmer',
       itemTitle: 'Twitter'
-    },
-    {
-      iconType: 'googleplus',
-      itemUrl: 'http://plus.google.com/103647743417859490624',
-      itemTitle: 'Google+'
     }
   ]
 }

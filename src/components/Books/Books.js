@@ -7,7 +7,7 @@ const booksData = {
     {
       iconType: 'book',
       itemUrl: 'https://manning.com/books/testing-angular-applications',
-      itemTitle: 'Testing Angular Applications, Manning Publications, estimated release, early 2018 (Coauthor)'
+      itemTitle: 'Testing Angular Applications, Manning Publications, estimated release, August 2018 (Coauthor)'
     },
     {
       iconType: 'book',
