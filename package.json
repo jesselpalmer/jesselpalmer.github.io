@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
   },
   "devDependencies": {
     "react-scripts": "^1.0.10",
-    "standard": "^10.0.2"
+    "standard": "^11.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
