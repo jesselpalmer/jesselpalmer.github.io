@@ -1,26 +1,11 @@
 {
   "name": "jesselpalmer.com",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
-  "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1"
-  },
   "devDependencies": {
-    "react-scripts": "^1.0.10",
-    "standard": "^11.0.1"
+    "serve": "^10.0.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "lint": "./node_modules/.bin/standard",
-    "lint-fix": "./node_modules/.bin/standard --fix"
-  },
-  "standard": {
-    "ignore": [
-      "build/*"
-    ]
+    "start": "serve ./public"
   }
 }
