@@ -6,6 +6,6 @@
     "serve": "^10.0.2"
   },
   "scripts": {
-    "start": "serve ./public"
+    "start": "serve ."
   }
 }
